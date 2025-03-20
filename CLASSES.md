@@ -618,7 +618,7 @@ GeoImNet
 │   ├── trolleybus
 │   ├── tugboat
 │   └── warplane
-├── 19: Others (4 classes)
+└── 19: Others (4 classes)
     ├── batik
     ├── bite
     ├── bling
