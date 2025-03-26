@@ -1,5 +1,34 @@
-# superclasses
-## GeoImNet
+# Superclass List
+
+## Number of images included in each superclass
+### GeoImNet
+|                    | USA-Train | USA-Test | Asia-Train | Asia-Test | 
+| :----------------: | :-------: | :------: | :--------: | :-------: | 
+| Aquatic animals    | 9749      | 1058     | 4220       | 623       | 
+| Amphibians         | 412       | 50       | 136        | 29        | 
+| Reptiles           | 1611      | 193      | 1830       | 142       | 
+| Birds              | 11252     | 1226     | 4261       | 655       | 
+| Mammals            | 19993     | 1848     | 7322       | 1144      | 
+| Insects            | 2912      | 451      | 1202       | 253       | 
+| Other animals      | 1623      | 240      | 852        | 136       | 
+| Flowers            | 12737     | 1514     | 6425       | 847       | 
+| Fruits/Vegetables  | 6595      | 541      | 2366       | 328       | 
+| Trees              | 2251      | 303      | 2164       | 206       | 
+| Buildings          | 17242     | 1751     | 8140       | 1090      | 
+| Shops/Facilities   | 4079      | 661      | 2693       | 474       | 
+| Rooms              | 4438      | 460      | 2162       | 285       | 
+| Natural landscapes | 11562     | 1148     | 3532       | 571       | 
+| Home appliances    | 3180      | 321      | 412        | 84        | 
+| Furniture          | 6643      | 537      | 2041       | 321       | 
+| Tools              | 8471      | 1007     | 7248       | 707       | 
+| Cuisine            | 11938     | 1460     | 4502       | 685       | 
+| Vehicles           | 17609     | 1881     | 6892       | 982       | 
+| Others             | 611       | 134      | 322        | 74        | 
+
+### GeoPlaces
+
+## Superclass Structure
+### GeoImNet
 
 ```
 GeoImNet
@@ -625,7 +654,7 @@ GeoImNet
     └── pirate
 ```
 
-## GeoPlaces
+### GeoPlaces
 ```
 GeoPlaces
 ├── 0: Historical buildings (17 classes)
