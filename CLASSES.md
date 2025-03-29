@@ -26,6 +26,16 @@
 | Others             | 611       | 134      | 322        | 74        | 
 
 ### GeoPlaces
+|                               | USA-Train | USA-Test | Asia-Train | Asia-Test | 
+| :---------------------------: | :-------: | :------: | :--------: | :-------: | 
+| Historical buildings          | 6479      | 978      | 36444      | 6972      | 
+| Modern buildings              | 29032     | 2057     | 19118      | 2787      | 
+| Rooms                         | 13810     | 2556     | 9367       | 1624      | 
+| Shops                         | 6746      | 1008     | 11680      | 1154      | 
+| Facilities                    | 27635     | 2188     | 23123      | 1662      | 
+| Natural landscapes            | 63855     | 6041     | 67887      | 9758      | 
+| Transportation/Infrastructure | 27837     | 2221     | 18518      | 2786      | 
+| Others                        | 2716      | 185      | 1289       | 180       | 
 
 ## Superclass Structure
 ### GeoImNet
