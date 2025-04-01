@@ -1,5 +1,5 @@
 # Geographic Domain Adaptation (GDA)
-**Official implementation for "Learning Region-specific Features and Matching Distributions Across Regions in Geographic Domain Adaptation"**
+**Official implementation for "Geographic Domain Adaptation by Learning Region-specific Features and Matching Distributions Across Regions"**
 
 *Authors: Takashi Horihata, Soh Yoshida, Mitsuji Muneyasu*  
 *Kansai University, Osaka, Japan*
@@ -12,7 +12,7 @@
 
 This repository provides the official implementation of our Geographic Domain Adaptation (GDA) method introduced in the paper:
 
-**"Learning Region-specific Features and Matching Distributions Across Regions in Geographic Domain Adaptation"**
+**"Geographic Domain Adaptation by Learning Region-specific Features and Matching Distributions Across Regions"**
 
 Our method explicitly addresses geographic domain adaptation by modeling and adapting to regional variations such as architectural styles, backgrounds, and context-specific object appearances. The method significantly improves model accuracy across geographic domains, such as USA ↔ Asia transfers.
 
