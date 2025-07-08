@@ -12,7 +12,7 @@
 
 This repository provides the official implementation of our Geographic Domain Adaptation (GDA) method introduced in the paper:
 
-**"Geographic Domain Adaptation by Learning Region-specific Features and Matching Distributions Across Regions"**
+**"Domain Adaptation across Geographic Regions through Region-Specific Feature Learning and Distribution Matching"**
 
 Our method explicitly addresses geographic domain adaptation by modeling and adapting to regional variations such as architectural styles, backgrounds, and context-specific object appearances. The method significantly improves model accuracy across geographic domains, such as USA ↔ Asia transfers.
 
