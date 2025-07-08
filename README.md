@@ -1,5 +1,5 @@
 # Geographic Domain Adaptation (GDA)
-**Official implementation for "Geographic Domain Adaptation by Learning Region-specific Features and Matching Distributions Across Regions"**
+**Official implementation for "Domain Adaptation across Geographic Regions through Region-Specific Feature Learning and Distribution Matching"**
 
 *Authors: Takashi Horihata, Soh Yoshida, Mitsuji Muneyasu*  
 *Kansai University, Osaka, Japan*
